@@ -2,7 +2,7 @@
 
 ## Installation
 
-Use the pnpm to install foobar.
+Use the pnpm to install
 
 ```bash
 pnpm install
